@@ -104,6 +104,3 @@ else:
 
 ---
 
-## 📜 License
-MIT License.
-```
