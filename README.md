@@ -1,4 +1,4 @@
-# 🎙️ Movie Subtitle Search via Audio (Whisper + ChromaDB + Gemini AI)
+# 🎙️ Movie Subtitle Search via Audio
 
 This project transcribes audio files using OpenAI's **Whisper**, then searches for relevant **movie subtitles** stored in a **ChromaDB** vector database. **Google Gemini AI** enhances subtitle extraction and matching.
 
